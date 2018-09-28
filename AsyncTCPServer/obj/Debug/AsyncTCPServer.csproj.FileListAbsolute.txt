@@ -1,0 +1,6 @@
+C:\Users\Tiago Costa\Documents\Redes\AsyncTCPServer\AsyncTCPServer\bin\Debug\AsyncTCPServer.exe.config
+C:\Users\Tiago Costa\Documents\Redes\AsyncTCPServer\AsyncTCPServer\bin\Debug\AsyncTCPServer.exe
+C:\Users\Tiago Costa\Documents\Redes\AsyncTCPServer\AsyncTCPServer\bin\Debug\AsyncTCPServer.pdb
+C:\Users\Tiago Costa\Documents\Redes\AsyncTCPServer\AsyncTCPServer\obj\Debug\AsyncTCPServer.csprojResolveAssemblyReference.cache
+C:\Users\Tiago Costa\Documents\Redes\AsyncTCPServer\AsyncTCPServer\obj\Debug\AsyncTCPServer.exe
+C:\Users\Tiago Costa\Documents\Redes\AsyncTCPServer\AsyncTCPServer\obj\Debug\AsyncTCPServer.pdb
